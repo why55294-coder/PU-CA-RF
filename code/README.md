@@ -3,8 +3,7 @@
 Code for the Huaniushan (花牛山) Pb–Zn deposit prospectivity mapping study.
 
 
-> Mineral Prospectivity Mapping Using PU Learning, C–A Multifractal Feature Transformation, and Random Forest: A Case Study of the Huaniushan mining area, Gansu province, China: *TBD*
--->
+> Mineral Prospectivity Mapping Using PU Learning, C–A Multifractal Feature Transformation, and Random Forest: A Case Study of the Huaniushan mining area, Gansu province, China
 
 ## Overview
 
